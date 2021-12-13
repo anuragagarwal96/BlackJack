@@ -8,17 +8,11 @@ The classic game Blackjack was built using Python as a part of the minor special
 
 ## Game Images -
 
-<p align="center">
 <img width="480" height="360" src="./.extra/img_1.png"> &nbsp;
-
 <img width="480" height="360" src="./.extra/img_2.png"> &nbsp;
-
 <img width="480" height="360" src="./.extra/img_3.png"> &nbsp;
-
 <img width="480" height="360" src="./.extra/img_4.png"> &nbsp;
-
 <img width="480" height="360" src="./.extra/img_5.png">
-</p>
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
